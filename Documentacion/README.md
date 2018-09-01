@@ -6,9 +6,9 @@
 
 ### Wireframe
 
-- URL Wireframe:  xxxx.com
+- URL Wireframe animado: https://marvelapp.com/1847d5f6/screen/45725233
 
-- Archivo: WireframeBogoAmbiental.bmpr
+- Archivo: WireframeBogoAmbiental.bmpr (Balsamiq)
 
 ### Documento de Análisis (Requerimientos funcionales y no funcionales, análisis de negocio).
 
