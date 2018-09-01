@@ -1,4 +1,4 @@
-# 023-Bogoambiental
+# Bogoambiental
 
 - Reto: Contacto con la naturaleza
 - Localidad :  Engativa
